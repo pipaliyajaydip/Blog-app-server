@@ -1,2 +1,2 @@
-# Blog-app-server
-Backend server of Blog-app-client
+# FrontEnd for this project
+FrontEnd --> (https://github.com/pipaliyajaydip/Blog-app-client)
